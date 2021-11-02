@@ -83,3 +83,5 @@ If you can't or don't want to compile the library yourself head to [the actions 
 - Ensure that the `.gdns` files are all located in the same folder as the `.gdnlib`'s folder, otherwise the library will not work.
 
 - All the classes required can be accessed from the `Discord` class as preloaded constants.
+
+e
